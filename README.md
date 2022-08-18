@@ -13,4 +13,4 @@ This is my College graduate project. In this project, I'm discussing about thecy
 
 5.Save the data the database.
 
-6.Run the analysis method code you want in three files. In my experiments, I use six channel as exmaple, 中天, 三立, 東森, 比特王出任務, 關鍵時刻, 少康戰情室. 
+6.Run the analysis method code you want in three files. In my experiments, I use six channel as exmaple, 中天, 三立, 東森, 比特王出任務, 關鍵時刻, 少康戰情室. I use Community Detection, Time Series Analysis, and Association Detection to research the account interaction on the Youtube video.
